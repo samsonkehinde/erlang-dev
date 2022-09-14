@@ -1,0 +1,6 @@
+*.beam
+_rel/
+ebin/
+deps/
+.vscode/
+
